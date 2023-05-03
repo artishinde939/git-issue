@@ -1,0 +1,35 @@
+span{
+    margin-left: 10px;
+    color:rgb(20, 18, 20);
+}
+body {
+    background-color: rgb(214, 214, 240);
+}
+#res{
+   margin-top: 50px;
+    margin-left: 400px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: rgb(15, 13, 13);
+    font-size: 60px
+}
+button{
+    margin: 50px;
+    padding: 30px;
+    font-size: 32px;
+    color: rgb(19, 1, 1);
+    background-color: rgb(223, 223, 197);
+    cursor: pointer;
+}
+ol{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+li{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(5, 18, 19)
+}
